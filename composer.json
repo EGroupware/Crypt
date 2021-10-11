@@ -1,5 +1,5 @@
 {
-    "name": "horde/crypt",
+    "name": "egroupware/crypt",
     "description": "Cryptography library",
     "type": "library",
     "homepage": "https://www.horde.org/libraries/Horde_Crypt",
@@ -16,7 +16,7 @@
             "role": "lead"
         }
     ],
-    "version": "2.7.11",
+    "version": "2.7.12",
     "time": "2017-11-11",
     "repositories": [
         {
@@ -25,7 +25,7 @@
         }
     ],
     "require": {
-        "php": "^5.3 || ^7",
+        "php": "^5.3 || ^7 || ^8",
         "pear-pear.horde.org/Horde_Exception": "^2",
         "pear-pear.horde.org/Horde_Http": "^2",
         "pear-pear.horde.org/Horde_Mime": "^2",
